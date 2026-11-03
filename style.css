@@ -1,0 +1,67 @@
+:root {
+  color-scheme: light;
+  font-family: system-ui, sans-serif;
+  color: #24292f;
+  background: #f6f8fa;
+}
+
+body {
+  margin: 0;
+}
+
+.page {
+  width: min(100% - 2rem, 44rem);
+  margin: 3rem auto;
+}
+
+.page-header {
+  margin-bottom: 2rem;
+}
+
+h1,
+h2 {
+  line-height: 1.2;
+}
+
+.page-header p {
+  color: #57606a;
+}
+
+.repository-list {
+  display: grid;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.repository {
+  padding: 1.25rem;
+  border: 1px solid #d0d7de;
+  border-radius: 0.5rem;
+  background: #fff;
+}
+
+.repository a {
+  color: #0969da;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.repository a:hover {
+  text-decoration: underline;
+}
+
+.repository p {
+  margin: 0.5rem 0;
+  color: #57606a;
+}
+
+.repository time {
+  color: #6e7781;
+  font-size: 0.875rem;
+}
+
+#status {
+  color: #57606a;
+}

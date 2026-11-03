@@ -1,0 +1,29 @@
+[
+  {
+    "type": "starred",
+    "repository": {
+      "name": "octocat/hello-world",
+      "url": "https://github.com/octocat/Hello-World",
+      "description": "A starter repository for trying out GitHub."
+    },
+    "starred_at": "2025-03-14"
+  },
+  {
+    "type": "starred",
+    "repository": {
+      "name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications."
+    },
+    "starred_at": "2025-02-20"
+  },
+  {
+    "type": "starred",
+    "repository": {
+      "name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree."
+    },
+    "starred_at": "2025-01-08"
+  }
+]
